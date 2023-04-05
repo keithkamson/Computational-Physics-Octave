@@ -1,2 +1,2 @@
 # octave-computational-physics
- will update this soon
+ will be updated this soon
